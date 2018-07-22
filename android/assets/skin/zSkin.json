@@ -1,0 +1,19 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: menuUp
+		down: menuDown
+		over: menuOver
+		checked: menuDown
+		checkedOver: menuUp
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		knobOver: knob
+		knobDown: knob
+		background: menuBackground
+		knob: knob
+	}
+}
+}

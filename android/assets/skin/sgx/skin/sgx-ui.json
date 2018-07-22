@@ -1,0 +1,154 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	dotum20: {
+		file: dotum20.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	RGBA_255_255_255_255: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+	RGBA_42_19_204_255: {
+		r: 0.81280637
+		g: 0.80383337
+		b: 0.8833334
+		a: 1
+	}
+	RGBA_5_5_5_255: {
+		r: 0.02
+		g: 0.02
+		b: 0.02
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: {
+		up: button-blue
+		down: button-blue-down
+		over: button-blue-over
+		checked: button-blue-down
+		checkedOver: button-blue-over
+		disabled: button-over
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle: {
+	default: {
+		over: background
+		checked: black
+		checkedOver: background
+	}
+	layer: {
+		imageUp: layer
+		imageDown: layer
+		imageOver: layer
+		imageChecked: layer
+		imageCheckedOver: layer
+		imageDisabled: layer
+		up: lightGray
+		down: black
+		over: darkGray
+		checked: black
+		checkedOver: darkGray
+	}
+	file: {
+		imageUp: texture
+		imageDown: texture
+		imageOver: texture
+		imageChecked: texture
+		imageCheckedOver: texture
+		imageDisabled: texture
+		up: lightGray
+		down: black
+		over: darkGray
+		checked: black
+		checkedOver: darkGray
+	}
+	decompose: {
+		imageUp: edit
+		imageDown: edit
+		imageOver: edit
+		imageChecked: edit
+		imageCheckedOver: edit
+		imageDisabled: edit
+		up: lightGray
+		down: black
+		over: darkGray
+		checked: black
+		checkedOver: darkGray
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		imageUp: black
+		imageDown: black
+		imageOver: black
+		imageChecked: black
+		imageCheckedOver: black
+		imageDisabled: black
+		font: dotum20
+		fontColor: RGBA_42_19_204_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: dotum20
+		fontColor: RGBA_255_255_255_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {
+		knobOver: slider-knob
+		knobDown: slider-knob
+		background: slider
+		disabledBackground: slider
+		knob: slider-knob
+		disabledKnob: slider-knob
+		knobBefore: slider-knob
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: {
+		font: dotum20
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_42_19_204_255
+		overFontColor: RGBA_42_19_204_255
+		checkedFontColor: RGBA_42_19_204_255
+		up: black
+		down: black
+		over: black
+	}
+	button: {
+		font: dotum20
+		fontColor: RGBA_255_255_255_255
+		downFontColor: RGBA_42_19_204_255
+		overFontColor: RGBA_42_19_204_255
+		checkedFontColor: RGBA_42_19_204_255
+		checkedOverFontColor: RGBA_42_19_204_255
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default: {
+		font: dotum20
+		fontColor: RGBA_42_19_204_255
+		focusedFontColor: RGBA_5_5_5_255
+		disabledFontColor: RGBA_42_19_204_255
+		background: slider-knob
+		cursor: black
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: background
+		titleFont: dotum20
+		titleFontColor: RGBA_255_255_255_255
+	}
+}
+}

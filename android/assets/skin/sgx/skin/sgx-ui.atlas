@@ -1,0 +1,295 @@
+
+sgx-ui.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+artsy
+  rotate: false
+  xy: 515, 1143
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 69, 119
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuDown
+  rotate: false
+  xy: 69, 119
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuOver
+  rotate: false
+  xy: 69, 119
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuUp
+  rotate: false
+  xy: 69, 119
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 100, 137
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 515, 1053
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-blue
+  rotate: false
+  xy: 549, 1087
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-down
+  rotate: false
+  xy: 549, 1087
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-blue-down
+  rotate: false
+  xy: 583, 1121
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-blue-over
+  rotate: false
+  xy: 617, 1155
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-over
+  rotate: false
+  xy: 1, 25
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-red
+  rotate: false
+  xy: 35, 75
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+button-window-bg
+  rotate: false
+  xy: 515, 1031
+  size: 12, 20
+  split: 5, 5, 5, 4
+  pad: 4, 4, 1, 1
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+darkGray
+  rotate: false
+  xy: 549, 1075
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dotum20
+  rotate: false
+  xy: 1, 149
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+dotum32
+  rotate: false
+  xy: 1, 663
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+edit
+  rotate: false
+  xy: 1, 115
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effects
+  rotate: false
+  xy: 515, 1109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+frames
+  rotate: false
+  xy: 549, 1143
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+graphics
+  rotate: false
+  xy: 1, 81
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+layer
+  rotate: false
+  xy: 35, 115
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lightGray
+  rotate: false
+  xy: 563, 1097
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuBackground
+  rotate: false
+  xy: 583, 1109
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 515, 1075
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 597, 1131
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 66, 109
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+slider-knob
+  rotate: false
+  xy: 529, 1051
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+slider-knob-disabled
+  rotate: false
+  xy: 1, 1
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+slider-knob-down
+  rotate: false
+  xy: 35, 51
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+slider-knob-over
+  rotate: false
+  xy: 515, 1007
+  size: 11, 22
+  orig: 11, 22
+  offset: 0, 0
+  index: -1
+slider-vertical
+  rotate: false
+  xy: 15, 44
+  size: 4, 1
+  orig: 4, 1
+  offset: 0, 0
+  index: -1
+spinnerDown
+  rotate: false
+  xy: 35, 97
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+spinnerUp
+  rotate: false
+  xy: 69, 131
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+subMenuBackground
+  rotate: false
+  xy: 617, 1143
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 549, 1109
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+texture
+  rotate: false
+  xy: 583, 1143
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+touchup
+  rotate: false
+  xy: 1, 47
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 631, 1165
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

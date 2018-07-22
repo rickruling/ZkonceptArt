@@ -1,0 +1,146 @@
+
+zSkin.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+artsy
+  rotate: false
+  xy: 1, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 35, 62
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuDown
+  rotate: false
+  xy: 35, 62
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuOver
+  rotate: false
+  xy: 35, 62
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+menuUp
+  rotate: false
+  xy: 35, 62
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 69, 96
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+edit
+  rotate: false
+  xy: 1, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+effects
+  rotate: false
+  xy: 35, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+frames
+  rotate: false
+  xy: 1, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+graphics
+  rotate: false
+  xy: 35, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+layer
+  rotate: false
+  xy: 69, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+menuBackground
+  rotate: false
+  xy: 103, 130
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 1, 40
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 137, 164
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+subMenuBackground
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 35, 74
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+texture
+  rotate: false
+  xy: 69, 108
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+touchup
+  rotate: false
+  xy: 103, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 35, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 1, 13
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
